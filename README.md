@@ -12,7 +12,6 @@ https://www.kaggle.com/c/titanic
 - Data Preprocessing: Data cleaning, normalization, and splitting into training and testing sets.
 - Model Training: Training a Logistic Regression model using scikit-learn.
 - Model Evaluation: Evaluating the performance of the model using metrics such as accuracy, precision, recall, F1-score, and plot the ROC curve.
-- Visualization: Visualization the ROC curve.
 
 
 ## 4. Project Structure
